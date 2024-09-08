@@ -6,4 +6,5 @@ Colaboradores:
 - [Giovanna Breinack](https://github.com/giovannabreinack)
 - [Mayara Vieira](https://github.com/maayvs)
 
-Linguagem Utilizada: Clojure
+Linguagem Utilizada: Clojure <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="15" alt="clojure logo"  />
+  
