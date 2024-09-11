@@ -1,8 +1,8 @@
 (defn any?
     
-  [pred coll]
+  [num coll]
     
-  (some pred coll))
+  (some num coll))
 
 (defn maior-que-7? [n]
     
